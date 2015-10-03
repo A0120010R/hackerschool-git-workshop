@@ -1,0 +1,46 @@
+pwd
+ls
+mkdir
+touch
+vi
+cd
+
+lei version 1
+
+changes1
+
+git init
+git status
+git add
+git commmit -m <msg>
+
+change2
+
+git log --oneline
+(show hash descr)
+
+change 3
+git diff
+
+change 4
+
+git branch <branch name>
+git checkout <beanch name> (switch branch)
+
+change 5
+branches - parallel
+
+change 6
+git merge <branch name>
+(merge to current branch) 
+
+change 7
+git checkout [commit unique id]
+	switches to [commit unique id]
+
+change 8
+	
+git revert --no-edit [commit-id]
+git reset --hard
+	reset the working directory
+	
