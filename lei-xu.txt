@@ -14,6 +14,7 @@ git status
 git add
 git commmit -m <msg>
 
-git log -oneline
+git log --oneline
 (show hash descr)
 
+git diff
