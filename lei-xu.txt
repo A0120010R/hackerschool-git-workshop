@@ -27,5 +27,9 @@ change 4
 git branch <branch name>
 git checkout <beanch name> (switch branch)
 
+change 5
+branches - parallel
 
-branches - parallel 
+change 6
+git merge <branch name>
+(merge to current branch) 
