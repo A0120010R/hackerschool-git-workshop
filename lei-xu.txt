@@ -28,4 +28,4 @@ git branch <branch name>
 git checkout <beanch name> (switch branch)
 
 
-branches = parallel 
+branches - parallel 
