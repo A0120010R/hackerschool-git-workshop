@@ -37,4 +37,10 @@ git merge <branch name>
 change 7
 git checkout [commit unique id]
 	switches to [commit unique id]
+
+change 8
+	
+git revert --no-edit [commit-id]
+git reset --hard
+	reset the working directory
 	
