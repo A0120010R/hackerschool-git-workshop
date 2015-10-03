@@ -1,0 +1,8 @@
+pwd
+ls
+mkdir
+touch
+vi
+cd
+
+lei version 1
