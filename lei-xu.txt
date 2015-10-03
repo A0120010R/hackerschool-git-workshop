@@ -6,3 +6,13 @@ vi
 cd
 
 lei version 1
+
+changes1
+
+git init
+git status
+git add
+git commmit -m <msg>
+
+
+
