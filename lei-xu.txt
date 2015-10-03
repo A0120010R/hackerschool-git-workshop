@@ -33,8 +33,3 @@ branches - parallel
 change 6
 git merge <branch name>
 (merge to current branch) 
-
-change 7
-git checkout [commit unique id]
-	switches to [commit unique id]
-	
