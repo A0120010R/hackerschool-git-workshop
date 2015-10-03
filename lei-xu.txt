@@ -14,7 +14,16 @@ git status
 git add
 git commmit -m <msg>
 
+change2
+
 git log --oneline
 (show hash descr)
 
+change 3
 git diff
+
+change 4
+
+git branch <branch name>
+git checkout <beanch name> (switch branch)
+
