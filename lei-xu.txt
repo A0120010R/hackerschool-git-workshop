@@ -1,4 +1,4 @@
-pwd
+pwd  +test06Jun2016
 ls
 mkdir
 touch
